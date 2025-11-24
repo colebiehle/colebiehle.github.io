@@ -12,9 +12,9 @@ title                    : "Cole Biehle"
 title_separator          : "-"
 name                     : &name "Cole Biehle"
 description              : &description "Cole's personal website"
-url                      : https://colebiehle.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://colebiehle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "colebiehle/colebiehle.github.io/"
+repository               : "colebiehle/colebiehle.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
