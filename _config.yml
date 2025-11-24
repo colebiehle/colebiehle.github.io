@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Irene Hou"
+title                    : "Cole Biehle"
 title_separator          : "-"
-name                     : &name "Irene Hou"
-description              : &description "Irene's personal website"
-url                      : https://houirene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Cole Biehle"
+description              : &description "Cole's personal website"
+url                      : https://colebiehle.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "houirene/houirene.github.io"
+repository               : "colebiehle/colebiehle.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,19 +22,19 @@ repository               : "houirene/houirene.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Irene Hou"
+  name             : "Cole Biehle"
   pronouns         : # example: "she/her"  
-  bio              : "Cognitive Science PhD student"
-  location         :   "  San Diego, CA"
+  bio              : "Human-Computer Interaction Master's Student"
+  location         :   "  Pittsburgh, PA"
   employer         : # 
   url              : # URL
-  email            :  "   ihou@ucsd.edu" 
+  email            :  "   colebiehle@cmu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=ie254A0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=S6xkU04AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-5223-1392"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "houirene"
+  github           : "colebiehle"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "colebiehle"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
