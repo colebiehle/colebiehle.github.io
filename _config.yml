@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Cole Biehle"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Human-Computer Interaction Master's Student"
   location         :   "  Pittsburgh, PA"
   employer         : "Carnegie Mellon University" 
-  url              : # URL
+  url              : "colebiehle.com"
   email            :  "   colebiehle@cmu.edu" 
 
   # Academic websites
