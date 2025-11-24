@@ -27,8 +27,8 @@ author:
   bio              : "MHCI Student"
   location         :   "  Pittsburgh, PA"
   employer         : "Carnegie Mellon University" 
-  url              : WEIRD "colebiehle.com"
-  email            :  #"   colebiehle@cmu.edu" 
+  url              : #"colebiehle.com"
+  email            :  "   colebiehle@cmu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
