@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_to: 
-  - /Cole-Biehle-CV.pdf
+  - /files/CV
 redirect_from:
   - /resume
 ---
