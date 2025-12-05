@@ -21,28 +21,23 @@ I am passionate about building the next generation of collaborative human-AI sys
   <div class="news-scroll">
     <ul>
     <li>
-        <div class="news-date">TODO</div>
-        <div class="news-text">
+        <div class="news-date">August 2025</div>
+        <div class="news-text">Joined the <a href="https://supercharging-innovation.github.io/">Kittur Lab</a>!
         </div>
       </li>
       <li>
-        <div class="news-date">TODO</div>
-        <div class="news-text">
+        <div class="news-date">August 2025</div>
+        <div class="news-text">Started the MHCI program at <a href="https://www.cs.cmu.edu/">Carnegie Mellon University's School of Computer Science</a>!
         </div>
       </li>
       <li>
-        <div class="news-date">TODO</div>
-        <div class="news-text">
+        <div class="news-date">August 2025</div>
+        <div class="news-text"><i><a href="https://dl.acm.org/doi/pdf/10.1145/3715928.3737486">Cueing the Crowd: LLM-Driven Conversational Cues Across Different Meeting Modalities Increase Topical Diversity of Generated Ideas</a></i> presented at <a href="https://ci.acm.org/2025/">Collective Intelligence 2025</a>!
         </div>
       </li>
       <li>
-        <div class="news-date">TODO</div>
-        <div class="news-text">
-        </div>
-      </li>
-      <li>
-        <div class="news-date">TODO</div>
-        <div class="news-text">
+        <div class="news-date">May 2025</div>
+        <div class="news-text"><i><a href="https://dl.acm.org/doi/pdf/10.1145/3715928.3737486">Cueing the Crowd: LLM-Driven Conversational Cues Across Different Meeting Modalities Increase Topical Diversity of Generated Ideas</a></i> accepted to <a href="https://ci.acm.org/2025/">Collective Intelligence 2025</a>!
         </div>
       </li>
     </ul>
