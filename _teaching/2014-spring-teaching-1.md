@@ -1,11 +1,11 @@
 ---
-title: "Teaching Test"
+title: "Social Computing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://socialcomputing.ucsd.edu/
+venue: "University of California San Diego - Cognitive Science department"
+date: Spring 2022
+location: "La Jolla, California"
 ---
 
-This is a description of a teaching experience.
+<!This is a description of a teaching experience.>
