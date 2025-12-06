@@ -1,10 +1,10 @@
 ---
-title: "More Robots are Coming: Large Multimodal Models (ChatGPT) can Solve Visually Diverse Images of Parsons Problems"
+title: "Participatory Journalism: Stakeholder Perspectives on Enhancing Online Discussion through Data Talk"
 collection: publications
-permalink: /publication/ace-2024-more-robots
+permalink: /publication/cd-datatalk
 excerpt: ''
-date: 2024-1-29
+date: 2024-10-26
 venue: 'ACE'
-paperurl: 'https://doi.org/10.1145/3636243.3636247'
-citation: 'HUH.'
+paperurl: 'https://cplusj2024.github.io/papers/CJ_2024_paper_35.pdf'
+citation: 'Cole Biehle, R Irigireddy, L Sun, SP Dow. In Proceedings of the Computation + Journalism Symposium (C+J 2024).'
 ---
