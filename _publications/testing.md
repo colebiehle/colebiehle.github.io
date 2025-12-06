@@ -6,5 +6,5 @@ excerpt: ''
 date: 2024-10-26
 venue: 'ACE'
 paperurl: 'https://cplusj2024.github.io/papers/CJ_2024_paper_35.pdf'
-citation: 'Cole Biehle, R Irigireddy, L Sun, SP Dow. In Proceedings of the Computation + Journalism Symposium (C+J 2024).'
+citation: '<b>C Biehle</b>, R Irigireddy, L Sun, SP Dow. In Proceedings of the Computation + Journalism Symposium (C+J 2024).'
 ---
