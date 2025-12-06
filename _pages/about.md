@@ -46,13 +46,28 @@ I am passionate about building the next generation of collaborative human-AI sys
         </div>
       </li>
       <li>
+        <div class="news-date">January 2025</div>
+        <div class="news-text">Joined the <a href="https://hxi.ucsd.edu/">HXI Lab</a>!
+        </div>
+    </li>
+      <li>
         <div class="news-date">October 2024</div>
-        <div class="news-text">Presnted <i><a href="https://cplusj2024.github.io/papers/CJ_2024_paper_35.pdf">Participatory Journalism: Stakeholder Perspectives on Enhancing Online Discussion through Data Talk</a></i> as first author at <a href="https://idi.provost.northeastern.edu/event-directory/the-2024-computation-journalism-symposium/">The 2024 Computation + Journalism Symposium</a>!
+        <div class="news-text">Presented <i><a href="https://cplusj2024.github.io/papers/CJ_2024_paper_35.pdf">Participatory Journalism: Stakeholder Perspectives on Enhancing Online Discussion through Data Talk</a></i> as first author at <a href="https://idi.provost.northeastern.edu/event-directory/the-2024-computation-journalism-symposium/">The 2024 Computation + Journalism Symposium</a>!
         </div>
     </li>
         <li>
         <div class="news-date">August 2024</div>
         <div class="news-text"><i><a href="https://cplusj2024.github.io/papers/CJ_2024_paper_35.pdf">Participatory Journalism: Stakeholder Perspectives on Enhancing Online Discussion through Data Talk</a></i> accepted to <a href="https://idi.provost.northeastern.edu/event-directory/the-2024-computation-journalism-symposium/">Computation + Journalism 2024</a>!
+        </div>
+    </li>
+      <li>
+        <div class="news-date">July 2022</div>
+        <div class="news-text">Joined the <a href="https://protolab.ucsd.edu/">Protolab</a>!
+        </div>
+    </li>
+    <li>
+        <div class="news-date">June 2022</div>
+        <div class="news-text">Graduated from the <a href="https://ucsd.edu/">University of California San Diego with a major in Cognitive Science and a minor in Computer Science!
         </div>
     </li>
     </ul>
