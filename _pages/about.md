@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, I'm Cole Biehle! I'm a Master's of Human-Computer Interaction (HCI) student at <a href="https://www.cs.cmu.edu/">Carnegie Mellon University's School of Computer Science</a>, advised by <a href="https://kittur.org/">Dr. Niki Kittur</a>.
+Hello, I'm Cole Biehle! I'm a Master's of Human-Computer Interaction (MHCI) student at <a href="https://www.cs.cmu.edu/">Carnegie Mellon University's School of Computer Science</a>, advised by <a href="https://kittur.org/">Dr. Niki Kittur</a>.
 
 My research investigates Human-AI Interaction at the intersection of creativity, sensemaking, and social computing. I develop AI-augmented tools that help groups organize information, share insights, and explore ideas more deeply. My goal is to improve how teams make sense of complex problems and generate innovative solutions.
 
